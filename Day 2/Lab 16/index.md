@@ -7,7 +7,7 @@ next:
   link: '/operative/05-model-selection'
 ---
 
-# 🚨 Mission 04: Add Event Triggers to act autonomously
+# 🚨 Lab 16: Add Event Triggers to act autonomously
 
 ## 🕵️‍♂️ CODENAME: `OPERATION SIGNAL POINT`
 
@@ -15,7 +15,7 @@ next:
 
 ## 🎯 Mission Brief
 
-Welcome back, Agent. In [Mission 03](../Lab%208/index.md) - you learned how to build an Application Intake child agent and an Interview Prep connected agent to broaden your main Hiring Agent's capabilities.
+Welcome back, Agent. In [Lab 15](../Lab%2015/index.md) - you learned how to build an Application Intake child agent and an Interview Prep connected agent to broaden your main Hiring Agent's capabilities.
 
 Your assignment, should you choose to accept it, is **Operation Signal Point** - diving deeper into **event triggers** - elevating your agent system from reactive to **autonomous operation**. You'll transform your agents from waiting for human input to proactively responding to external events and taking intelligent action without supervision.
 
@@ -143,7 +143,7 @@ We'll be achieving this using two techniques
 
 To complete this lab you will need to:
 
-- **Have completed [Mission 01](../Lab%206/index.md) and [Mission 03](../Lab%208/index.md)** and have your Hiring Agent ready.
+- **Have completed [Lab 13](../Lab%2013/index.md) and [Lab 15](../Lab%2015/index.md)** and have your Hiring Agent ready.
 - You'll also need access to **Microsoft Teams** to complete the second lab exercise of posting an adaptive card to Microsoft Teams.
 
 ### 🧪 Lab 4.1 - Automate uploading resumes to Dataverse received by email
@@ -186,7 +186,7 @@ Congratulations! 👏🏻 Excellent work, Operative.
 
 This enables the **Hiring Agent** to work autonomously whenever resumes are received as email attachments and notify the HR recruitment team for manual review.
 
-⏭️ Move to mission [**Understanding Agent Models**](../Lab%2010/index.md)
+⏭️ Move to [**Lab 17: Understanding Agent Models**](../Lab%2017/index.md)
 
 ## 📚 Tactical Resources
 

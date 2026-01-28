@@ -7,7 +7,7 @@ next:
   link: '/operative/03-multi-agent'
 ---
 
-# 🚨 Mission 02: Authoring Agent Instructions
+# 🚨 Lab 14: Authoring Agent Instructions
 
 ## 🕵️‍♂️ CODENAME: `OPERATION CLEAR DIRECTIVE`
 
@@ -15,7 +15,7 @@ next:
 
 ## 🎯 Mission Brief
 
-Welcome back, Agent. In Mission 01, you deployed your Hiring Agent - but an agent without clear instructions is like a soldier without orders. In this mission, you'll learn the art of writing effective instructions that shape how your agent thinks, responds, and behaves.
+Welcome back, Agent. In Lab 13, you deployed your Hiring Agent - but an agent without clear instructions is like a soldier without orders. In this mission, you'll learn the art of writing effective instructions that shape how your agent thinks, responds, and behaves.
 
 Strong instructions are the foundation of reliable agent behavior. They determine which tools your agent uses, how it populates inputs, and how it formulates responses to users. Master this skill, and your agents will operate with precision.
 
@@ -178,7 +178,7 @@ Key takeaways:
 - ✅ Structured instructions improve consistency
 - ✅ Testing reveals gaps and opportunities for refinement
 
-Next up is [Mission 03](../Lab%208/index.md): Multi-Agent Systems - where you'll put these instruction skills to work coordinating multiple specialized agents!
+Next up is [Lab 15](../Lab%2015/index.md): Multi-Agent Systems - where you'll put these instruction skills to work coordinating multiple specialized agents!
 
 ## 📚 Tactical Resources
 

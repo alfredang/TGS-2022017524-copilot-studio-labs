@@ -7,7 +7,7 @@ next:
   link: '/operative/04-automate-triggers'
 ---
 
-# 🚨 Mission 03: Multi-Agent Systems
+# 🚨 Lab 15: Multi-Agent Systems
 
 ## 🕵️‍♂️ CODENAME: `OPERATION SYMPHONY`
 
@@ -153,7 +153,7 @@ Ready to put theory into practice? Let's add our first child agent to your exist
 
 To complete this mission you need to:
 
-- **Have completed [Mission 01](../Lab%206/index.md)** and have your Hiring Agent ready
+- **Have completed [Lab 13](../Lab%2013/index.md)** and have your Hiring Agent ready
 
 ### 3.1.1 Solution setup
 
@@ -301,7 +301,7 @@ Your enhanced hiring system is now ready for the advanced features we'll add in 
 
 🚀**Next up:** In your next mission, you'll learn how to configure your agent to autonomously process resumes from emails!
 
-⏩ Move to [Mission 04](../Lab%209/index.md): Automate your agent with triggers
+⏩ Move to [Lab 16](../Lab%2016/index.md): Automate your agent with triggers
 
 ## 📚 Tactical Resources
 

@@ -7,7 +7,7 @@ next:
   link: '/operative/06-ai-safety'
 ---
 
-# 🚨 Mission 05: Understanding Agent Models
+# 🚨 Lab 17: Understanding Agent Models
 
 ## 🕵️‍♂️ CODENAME: `OPERATION ARCHETYPE`
 
@@ -15,7 +15,7 @@ next:
 
 ## 🎯 Mission Brief
 
-Welcome back, Agent. In [Mission 02](../Lab%207/index.md), you learned how strong instructions shape agent behavior.
+Welcome back, Agent. In [Lab 14](../Lab%2014/index.md), you learned how strong instructions shape agent behavior.
 
 Now it's time to choose the brain.
 
